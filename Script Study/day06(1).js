@@ -1,6 +1,6 @@
 //대문자 찾기
 function solution(t){
-    let a = t.split('');   // 문자열 -> 배열 || 배열->문자열 toString()
+    let a = t.split('');   // 문자열 -> 배열 || 배열->문자열 toString().
     let c = 0;
 
     for(let i = 0; i<a.length; i++){

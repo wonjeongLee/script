@@ -1,3 +1,4 @@
+//홀수
 function solution(arr){
       let sum = 0;
       let min =arr[0];

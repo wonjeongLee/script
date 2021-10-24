@@ -1,3 +1,4 @@
+//1 ~ N 값 구하기
 function solution(a){
           let n = a;
 

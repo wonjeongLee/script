@@ -1,4 +1,4 @@
-//7난쟁이
+//7난쟁이 (가짜 난쟁이 고르기)
 function solution(arr){
     let a = 0;
     let sum = arr.reduce((a,b) => (a+b));//배열안의 숫자들은 for 문으로 더하면 안되고 reduce 문으로 더할것

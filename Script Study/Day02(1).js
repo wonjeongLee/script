@@ -22,7 +22,7 @@ function solution(a,b,c) {
             if(big>a+b){
                 return yes
             }else{
-                return no
+                return no;
             }
         }
     }

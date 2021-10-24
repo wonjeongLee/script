@@ -1,4 +1,4 @@
-//연필 한다스
+//연필 한다스 문제 풀이
   function solution(a){
     let n = a;
     let nm1 ,pencil;

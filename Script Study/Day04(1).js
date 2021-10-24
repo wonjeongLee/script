@@ -1,4 +1,4 @@
-//10부
+//10부제 차량
     function solution(a,arr) {
         let car = 0;
         for(let i =0; i < arr.length ; i++){

@@ -1,3 +1,4 @@
+//최소값 구하기
 function solution(arr) {
         let min = arr[0];
          for (let i = 0; i < arr.length; i++) {
