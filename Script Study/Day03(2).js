@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<script>
-     function solution(arr) {
+function solution(arr) {
         let min = arr[0];
          for (let i = 0; i < arr.length; i++) {
              if (arr[i] < min) {
@@ -26,9 +18,3 @@
 
     let arr = [5,3,11,1,3,2,9]
     console.log(solution(arr));
-
-</script>
-
-
-</body>
-</html>

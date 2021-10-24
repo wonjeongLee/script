@@ -1,10 +1,3 @@
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>출력결과</title>
-</head>
-<body>
-<script>단
 //연필 한다스
   function solution(a){
     let n = a;
@@ -16,6 +9,3 @@
     return pencil;
   }
   console.log(solution(25));
-</script>
-</body>
-</html>

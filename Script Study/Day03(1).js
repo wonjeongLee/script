@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-  <script>
-      function solution(a){
+function solution(a){
           let n = a;
 
           let sum = 0;
@@ -16,6 +8,3 @@
           return sum;
       }
       console.log(solution(6));
-  </script>
-</body>
-</html>

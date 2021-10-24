@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<script>
-    function solution(a,b,c) {
+function solution(a,b,c) {
         let big = 0;
         let yes = 'YES';
         let no = 'NO';
@@ -36,8 +28,3 @@
     }
 
     console.log(solution(3,5,10));
-</script>
-</body>
-
-
-</html>

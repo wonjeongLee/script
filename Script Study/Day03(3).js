@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<script>
-  function solution(arr){
+function solution(arr){
       let sum = 0;
       let min =arr[0];
       let answer = [];      // 두개의 값을 동시에 추출하기 위해서는 배열로 선언해서 return 하는것
@@ -25,6 +17,3 @@
   }
   let arr = [12,77,38,41,53,92,85];
   console.log(solution(arr));
-</script>
-</body>
-</html>

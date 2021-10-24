@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
-<script>이
 //10부
     function solution(a,arr) {
         let car = 0;
@@ -20,8 +12,3 @@
 
     let arr = [25,23,11,27,53,17,33]
     console.log(solution(3,arr));
-</script>
-</body>
-
-
-</html>
