@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1zomUSHbN6DWjcizS5dJczACIu1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Script Study" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.Day07(4).html">
+    <configuration name="Day07(1).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/Day07(1).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day07(2).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/Day07(2).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day07(3).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/Day07(3).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day07(4).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/Day07(4).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="day06(1).html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/day06(1).html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.Day07(4).html" />
+        <item itemvalue="JavaScript Debug.Day07(3).html" />
+        <item itemvalue="JavaScript Debug.Day07(2).html" />
+        <item itemvalue="JavaScript Debug.Day07(1).html" />
+        <item itemvalue="JavaScript Debug.day06(1).html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="" />
+      <created>1634822830427</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1634822830427</updated>
+      <workItem from="1634822833046" duration="4793000" />
+      <workItem from="1634872727274" duration="5370000" />
+      <workItem from="1634900329415" duration="1040000" />
+      <workItem from="1634910405284" duration="166000" />
+      <workItem from="1634911746287" duration="62000" />
+      <workItem from="1634912038241" duration="594000" />
+      <workItem from="1634992643595" duration="8989000" />
+      <workItem from="1635049241396" duration="3476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Script Study/Day05(1).js</url>
+          <line>13</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Script Study/day06(1).js</url>
+          <line>13</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Script Study/Day07(1).js</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
