@@ -3,29 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day01(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day02(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day02(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day03(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day03(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day03(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day04(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day05(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day05(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day05(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day07(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day07(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day07(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day07(4).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day08(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day08(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day09(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day09(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day09(3).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day10(1).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/Day10(2).js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/TEST1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Script Study/day06(1).js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,47 +55,30 @@
       <recent name="$PROJECT_DIR$/Script Study" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.js debug">
-    <configuration name="Day07(4).html" type="JavascriptDebugType" nameIsGenerated="true" uri="http://localhost:63342/study/Project/Script Study/Day07(4).html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.Day11(1).js">
+    <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
-    <configuration name="js debug" type="JavascriptDebugType" uri="http://localhost:63342/study/Project/Script Study/Day10(1).js" useBuiltInWebServerPort="true">
+    <configuration name="Day09(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day09(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day03(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Script Study/Day03(2).js" working-dir="$PROJECT_DIR$/Script Study">
+    <configuration name="Day10(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day10(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day07(4).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Script Study/Day07(4).js" working-dir="$PROJECT_DIR$/Script Study">
-      <method v="2" />
-    </configuration>
-    <configuration name="Day10(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Script Study/Day10(1).js" working-dir="$PROJECT_DIR$/Script Study">
-      <method v="2" />
-    </configuration>
-    <configuration name="Day10(2).js" type="NodeJSConfigurationType" singleton="true" path-to-node="node" nameIsGenerated="true" node-parameters="$Classpath$" path-to-js-file="Day10(2).js" working-dir="$PROJECT_DIR$/Script Study">
-      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
-        <browser with-js-debugger="true" />
-      </EXTENSION>
-      <method v="2" />
-    </configuration>
-    <configuration name="Day11(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Script Study/Day11(1).js" working-dir="$PROJECT_DIR$/Script Study">
+    <configuration name="Day11(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day11(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.js debug" />
-      <item itemvalue="JavaScript Debug.Day07(4).html" />
-      <item itemvalue="Node.js.Day10(2).js" />
-      <item itemvalue="Node.js.Day03(2).js" />
-      <item itemvalue="Node.js.Day07(4).js" />
-      <item itemvalue="Node.js.Day10(1).js" />
+      <item itemvalue="JavaScript Debug.debug" />
       <item itemvalue="Node.js.Day11(1).js" />
+      <item itemvalue="Node.js.Day09(2).js" />
+      <item itemvalue="Node.js.Day10(2).js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Day10(1).js" />
-        <item itemvalue="Node.js.Day07(4).js" />
-        <item itemvalue="Node.js.Day03(2).js" />
         <item itemvalue="Node.js.Day11(1).js" />
         <item itemvalue="Node.js.Day10(2).js" />
+        <item itemvalue="Node.js.Day09(2).js" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +104,14 @@
       <workItem from="1635517096070" duration="2293000" />
       <workItem from="1635575541270" duration="87000" />
       <workItem from="1635667971980" duration="1087000" />
-      <workItem from="1635669111383" duration="83000" />
+      <workItem from="1635669111383" duration="234000" />
+      <workItem from="1635669372341" duration="2000" />
+      <workItem from="1635669376713" duration="1000" />
+      <workItem from="1635669379965" duration="1000" />
+      <workItem from="1635669417109" duration="29000" />
+      <workItem from="1635669472658" duration="1933000" />
+      <workItem from="1635671411263" duration="1843000" />
+      <workItem from="1635689714882" duration="1494000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -153,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635518785392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="script 파일  directory 변경">
+      <created>1635669288947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635669288947</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,7 +135,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="script 파일 설정" />
-    <option name="LAST_COMMIT_MESSAGE" value="script 파일 설정" />
+    <MESSAGE value="script 파일  directory 변경" />
+    <option name="LAST_COMMIT_MESSAGE" value="script 파일  directory 변경" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -180,6 +155,12 @@
           <url>file://$PROJECT_DIR$/Script Study/Day07(1).js</url>
           <line>12</line>
           <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/ScriptStudy/Day11(1).js</url>
+          <line>8</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
