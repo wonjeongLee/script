@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="script 파일  directory 변경">
+    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day11(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day11(1).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day12(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day12(1).js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +56,7 @@
       <recent name="$PROJECT_DIR$/Script Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day11(1).js">
+  <component name="RunManager" selected="Node.js.Day12(1).js">
     <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -69,14 +69,19 @@
     <configuration name="Day11(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day11(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
+    <configuration name="Day12(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day12(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.debug" />
       <item itemvalue="Node.js.Day11(1).js" />
       <item itemvalue="Node.js.Day09(2).js" />
       <item itemvalue="Node.js.Day10(2).js" />
+      <item itemvalue="Node.js.Day12(1).js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Day12(1).js" />
         <item itemvalue="Node.js.Day11(1).js" />
         <item itemvalue="Node.js.Day10(2).js" />
         <item itemvalue="Node.js.Day09(2).js" />
@@ -128,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635669288947</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="script 파일 추가 및 문제풀이">
+      <created>1635775185355</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635775185356</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,7 +149,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="script 파일 설정" />
     <MESSAGE value="script 파일  directory 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="script 파일  directory 변경" />
+    <MESSAGE value="script 파일 추가 및 문제풀이" />
+    <option name="LAST_COMMIT_MESSAGE" value="script 파일 추가 및 문제풀이" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
