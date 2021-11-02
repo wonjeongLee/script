@@ -118,6 +118,7 @@
       <workItem from="1635669472658" duration="1933000" />
       <workItem from="1635671411263" duration="1843000" />
       <workItem from="1635689714882" duration="1494000" />
+      <workItem from="1635863548161" duration="1167000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -140,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635775185356</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="script 파일 추가 및 문제풀이">
+      <created>1635775500836</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635775500836</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
