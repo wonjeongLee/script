@@ -1,0 +1,56 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"9e1d5cd9-46ae-4065-82ca-11da2125d95b\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"HTML File\" />\n        <option value=\"JavaScript File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitSEFilterConfiguration\">\n    <file-type-list>\n      <filtered-out-file-type name=\"LOCAL_BRANCH\" />\n      <filtered-out-file-type name=\"REMOTE_BRANCH\" />\n      <filtered-out-file-type name=\"TAG\" />\n      <filtered-out-file-type name=\"COMMIT_BY_MESSAGE\" />\n    </file-type-list>\n  </component>\n  <component name=\"ProblemsViewState\">\n    <option name=\"selectedIndex\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"1zomUSHbN6DWjcizS5dJczACIu1\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\">\n    <property name=\"ASKED_SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"DefaultHtmlFileTemplate\" value=\"HTML File\" />\n    <property name=\"RunOnceActivity.OpenProjectViewOnStart\" value=\"true\" />\n    <property name=\"RunOnceActivity.ShowReadmeOnStart\" value=\"true\" />\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$/../.gitconfig\" />\n    <property name=\"nodejs_package_manager_path\" value=\"npm\" />\n    <property name=\"settings.editor.selected.configurable\" value=\"settings.nodejs\" />\n  </component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$\" />\n    </key>\n    <key name=\"MoveFile.RECENT_KEYS\">\n      <recent name=\"$PROJECT_DIR$/Script Study\" />\n    </key>\n  </component>\n  <component name=\"RunManager\" selected=\"Node.js.Day11(1).js\">\n    <configuration name=\"debug\" type=\"JavascriptDebugType\" uri=\"http://localhost:3000\">\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Day09(2).js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/ScriptStudy/Day09(2).js\" working-dir=\"$PROJECT_DIR$/ScriptStudy\">\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Day10(2).js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/ScriptStudy/Day10(2).js\" working-dir=\"$PROJECT_DIR$/ScriptStudy\">\n      <method v=\"2\" />\n    </configuration>\n    <configuration name=\"Day11(1).js\" type=\"NodeJSConfigurationType\" temporary=\"true\" nameIsGenerated=\"true\" path-to-js-file=\"$PROJECT_DIR$/ScriptStudy/Day11(1).js\" working-dir=\"$PROJECT_DIR$/ScriptStudy\">\n      <method v=\"2\" />\n    </configuration>\n    <list>\n      <item itemvalue=\"JavaScript Debug.debug\" />\n      <item itemvalue=\"Node.js.Day11(1).js\" />\n      <item itemvalue=\"Node.js.Day09(2).js\" />\n      <item itemvalue=\"Node.js.Day10(2).js\" />\n    </list>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Node.js.Day11(1).js\" />\n        <item itemvalue=\"Node.js.Day10(2).js\" />\n        <item itemvalue=\"Node.js.Day09(2).js\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"9e1d5cd9-46ae-4065-82ca-11da2125d95b\" name=\"Changes\" comment=\"\" />\n      <created>1634822830427</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1634822830427</updated>\n      <workItem from=\"1634822833046\" duration=\"4793000\" />\n      <workItem from=\"1634872727274\" duration=\"5370000\" />\n      <workItem from=\"1634900329415\" duration=\"1040000\" />\n      <workItem from=\"1634910405284\" duration=\"166000\" />\n      <workItem from=\"1634911746287\" duration=\"62000\" />\n      <workItem from=\"1634912038241\" duration=\"594000\" />\n      <workItem from=\"1634992643595\" duration=\"8989000\" />\n      <workItem from=\"1635049241396\" duration=\"3476000\" />\n      <workItem from=\"1635170105770\" duration=\"61000\" />\n      <workItem from=\"1635513706797\" duration=\"1801000\" />\n      <workItem from=\"1635516514232\" duration=\"553000\" />\n      <workItem from=\"1635517096070\" duration=\"2293000\" />\n      <workItem from=\"1635575541270\" duration=\"87000\" />\n      <workItem from=\"1635667971980\" duration=\"1087000\" />\n      <workItem from=\"1635669111383\" duration=\"234000\" />\n      <workItem from=\"1635669372341\" duration=\"2000\" />\n      <workItem from=\"1635669376713\" duration=\"1000\" />\n      <workItem from=\"1635669379965\" duration=\"1000\" />\n      <workItem from=\"1635669417109\" duration=\"29000\" />\n      <workItem from=\"1635669472658\" duration=\"1933000\" />\n      <workItem from=\"1635671411263\" duration=\"1843000\" />\n      <workItem from=\"1635689714882\" duration=\"1494000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"script 파일 설정\">\n      <created>1635518785392</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1635518785392</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"script 파일  directory 변경\">\n      <created>1635669288947</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1635669288947</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"script 파일 설정\" />\n    <MESSAGE value=\"script 파일  directory 변경\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"script 파일  directory 변경\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\n          <url>file://$PROJECT_DIR$/Script Study/Day05(1).js</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"9\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\n          <url>file://$PROJECT_DIR$/Script Study/day06(1).js</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"10\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\n          <url>file://$PROJECT_DIR$/Script Study/Day07(1).js</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"11\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"javascript\">\n          <url>file://$PROJECT_DIR$/ScriptStudy/Day11(1).js</url>\n          <line>8</line>\n          <properties lambdaOrdinal=\"-1\" />\n          <option name=\"timeStamp\" value=\"14\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n  <component name=\"XSLT-Support.FileAssociations.UIState\">\n    <expand />\n    <select />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -1,9 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -111,7 +109,7 @@
+       <workItem from="1635669417109" duration="29000" />
+       <workItem from="1635669472658" duration="1933000" />
+       <workItem from="1635671411263" duration="1843000" />
+-      <workItem from="1635689714882" duration="1494000" />
++      <workItem from="1635689714882" duration="1619000" />
+     </task>
+     <task id="LOCAL-00001" summary="script 파일 설정">
+       <created>1635518785392</created>
+@@ -127,7 +125,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1635669288947</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="script 파일  directory 변경 및 소스코드 변경">
++      <created>1635691366762</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1635691366762</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -136,7 +141,8 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="script 파일 설정" />
+     <MESSAGE value="script 파일  directory 변경" />
+-    <option name="LAST_COMMIT_MESSAGE" value="script 파일  directory 변경" />
++    <MESSAGE value="script 파일  directory 변경 및 소스코드 변경" />
++    <option name="LAST_COMMIT_MESSAGE" value="script 파일  directory 변경 및 소스코드 변경" />
+   </component>
+   <component name="XDebuggerManager">
+     <breakpoint-manager>
