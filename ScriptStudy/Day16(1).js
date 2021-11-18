@@ -9,7 +9,7 @@ function solution(n, arr){
             tmp  = parseInt(tmp / 10);               // 나머지를 구한다
 
         }*/
-        let sum=x.toString().split('').reduce((a, b)=>a+Number(b), 0);
+        let sum=x.toString().split('').reduce((a, b)=>a+Number(b), 0);  //  한줄로 완성
         if(max < sum){
             max = sum
             answer = x;

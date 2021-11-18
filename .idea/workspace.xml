@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_05_11_32___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_05_11_32___Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_12_11_40___Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2021_11_12_11_40___Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ScriptStudy/Day16(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day16(1).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day16(2).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day16(2).js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,11 +58,8 @@
       <recent name="$PROJECT_DIR$/Script Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day16(1).js">
+  <component name="RunManager" selected="Node.js.Day16(2).js">
     <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="Day09(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day09(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
     <configuration name="Day10(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day10(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
@@ -78,21 +74,24 @@
     <configuration name="Day16(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day16(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
+    <configuration name="Day16(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day16(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="JavaScript Debug.debug" />
       <item itemvalue="Node.js.Day11(1).js" />
-      <item itemvalue="Node.js.Day09(2).js" />
       <item itemvalue="Node.js.Day10(2).js" />
       <item itemvalue="Node.js.Day12(1).js" />
       <item itemvalue="Node.js.Day16(1).js" />
+      <item itemvalue="Node.js.Day16(2).js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Day16(2).js" />
         <item itemvalue="Node.js.Day16(1).js" />
         <item itemvalue="Node.js.Day12(1).js" />
         <item itemvalue="Node.js.Day11(1).js" />
         <item itemvalue="Node.js.Day10(2).js" />
-        <item itemvalue="Node.js.Day09(2).js" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +129,8 @@
       <workItem from="1635947893936" duration="907000" />
       <workItem from="1636026816036" duration="640000" />
       <workItem from="1636461599192" duration="257000" />
-      <workItem from="1637155591525" duration="5301000" />
+      <workItem from="1637155591525" duration="6389000" />
+      <workItem from="1637240515995" duration="3255000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -188,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636461890243</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="script  문제풀이">
+      <created>1637161237813</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637161237813</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
