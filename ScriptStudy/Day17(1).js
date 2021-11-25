@@ -1,23 +1,23 @@
-function solution(test){
-    let answer=0;
-    m=test.length;
-    n=test[0].length;
-    for(let i=1; i<=n; i++){
-        for(let j=1; j<=n; j++){
-            let cnt=0;
-            for(let k=0; k<m; k++){
-                let pi=pj=0;
-                for(let s=0; s<n; s++){
-                    if(test[k][s]===i) pi=s;
-                    if(test[k][s]===j) pj=s;
-                }
-                if(pi<pj) cnt++;
-            }
-            if(cnt===m) answer++;
-        }
+//두 배열 합치기
+function solution(arr1 , arr2){
+    let answer = [];
+    n = arr1.length;
+    m = arr2.length;
+    let p1=p2=0;        //포인터 정의
+
+    while(p1 < n && p2 < m){
+        console.log(arr1[p1])
+        console.log(arr2[p2])
+        if(arr1[p1] < arr2[p2]) answer.push(arr1[p1++])
+        else answer.push(arr2[p2++])
     }
+
+    while(p1<n) answer.push(arr1[p1++]);
+    while(p2<m) answer.push(arr2[p2++]);
+
     return answer;
 }
 
-let arr=[[3, 4, 1, 2], [4, 3, 2, 1], [3, 1, 4, 2]];
-console.log(solution(arr));
+let a=[1, 3, 5];
+let b=[2, 3, 6, 7, 9];
+console.log(solution(a, b));

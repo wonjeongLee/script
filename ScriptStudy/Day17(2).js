@@ -1,21 +1,30 @@
-function solution(m, product){
-    let answer=0;
-    let n=product.length;
-    product.sort((a, b)=>(a[0]+a[1])-(b[0]+b[1]));
-    for(let i=0; i<n; i++){
-        let money=m-(product[i][0]/2+product[i][1]);
-        let cnt=1;
-        for(let j=0; j<n; j++){
-            if(j!==i && (product[j][0]+product[j][1])>money) break;
-            if(j!==i && (product[j][0]+product[j][1])<=money){
-                money-=(product[j][0]+product[j][1]);
-                cnt++;
-            }
+//공통 원소 구하기
+function solution(arr1, arr2){
+    let answer = [];
+    n = arr1.sort().length;
+    m = arr2.sort().length;
+    let l = 0;
+    let P1 = P2 = 0;
+
+    if( n <= m )  l = n
+    else  l = m
+    console.log(l)
+
+   while(P1 < l && P2 < l){
+        if(arr1[P1] === arr2[P2]) {
+            answer.push(arr1[P1++])
+            P2 ++;
+        }else if (arr1[P1] < arr2[P2]){
+            P1 ++;
+        } else{
+            P2 ++;
         }
-        answer=Math.max(answer, cnt);
-    }
+   }
     return answer;
 }
 
-let arr=[[6, 6], [2, 2], [4, 3], [4, 5], [10, 3]];
-console.log(solution(28, arr));
+let a=[1, 3, 9];
+let b=[3, 2, 5, 7, 8];
+console.log(solution(a, b));
+// 1 2 3 5 9
+// 2 3 5 7 8

@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day16(3).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day16(3).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day17(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day17(1).js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day17(2).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day17(2).js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,20 +61,20 @@
       <recent name="$PROJECT_DIR$/Script Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day22(2).js">
+  <component name="RunManager" selected="Node.js.Day17(2).js">
     <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000">
-      <method v="2" />
-    </configuration>
-    <configuration name="Day08(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day08(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
     <configuration name="Day08(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day08(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day16(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day16(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+    <configuration name="Day16(3).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day16(3).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day22(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day22(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+    <configuration name="Day17(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day17(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day17(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day17(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
     <configuration name="Day22(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day22(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
@@ -79,19 +82,19 @@
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.debug" />
-      <item itemvalue="Node.js.Day16(2).js" />
-      <item itemvalue="Node.js.Day22(1).js" />
-      <item itemvalue="Node.js.Day08(1).js" />
       <item itemvalue="Node.js.Day08(2).js" />
       <item itemvalue="Node.js.Day22(2).js" />
+      <item itemvalue="Node.js.Day16(3).js" />
+      <item itemvalue="Node.js.Day17(1).js" />
+      <item itemvalue="Node.js.Day17(2).js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Day17(2).js" />
+        <item itemvalue="Node.js.Day17(1).js" />
+        <item itemvalue="Node.js.Day16(3).js" />
         <item itemvalue="Node.js.Day22(2).js" />
         <item itemvalue="Node.js.Day08(2).js" />
-        <item itemvalue="Node.js.Day08(1).js" />
-        <item itemvalue="Node.js.Day22(1).js" />
-        <item itemvalue="Node.js.Day16(2).js" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +136,8 @@
       <workItem from="1637240515995" duration="3255000" />
       <workItem from="1637413258409" duration="8274000" />
       <workItem from="1637676743389" duration="80000" />
-      <workItem from="1637761995046" duration="604000" />
+      <workItem from="1637761995046" duration="1409000" />
+      <workItem from="1637838164718" duration="10956000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -226,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637676792957</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="script  문제풀이">
+      <created>1637763443640</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1637763443640</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
