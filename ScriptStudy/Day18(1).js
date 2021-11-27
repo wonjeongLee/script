@@ -1,17 +1,27 @@
-function solution(arr1, arr2){
-    let answer=[];
-    let n=arr1.length;
-    let m=arr2.length;
-    let p1=p2=0;
-    while(p1<n && p2<m){
-        if(arr1[p1]<=arr2[p2]) answer.push(arr1[p1++]);
-        else answer.push(arr2[p2++]);
+//연속부분수열2
+// 합이 5이하가 되는 연속부분수열
+function solution(m, arr){
+    let answer = 0 , sum = 0;
+    let lt = 0;
+
+    // for(let rt = 0 ; rt < arr.length ; rt++){
+    //     sum += arr[rt];
+    //     while(sum=m){
+    //         sum -=arr[lt++]
+    //     }
+    //     answer+=(rt-lt+1);
+    // }
+    // return answer;
+    for(let rt=0; rt<arr.length; rt++){
+        sum+=arr[rt];
+        while(sum>m){
+            sum-=arr[lt++];
+        }
+        console.log(rt-lt+1)
+        answer+=(rt-lt+1);
     }
-    while(p1<n) answer.push(arr1[p1++]);
-    while(p2<m) answer.push(arr2[p2++]);
     return answer;
 }
 
-let a=[1, 3, 5];
-let b=[2, 3, 6, 7, 9];
-console.log(solution(a, b));
+let a=[1, 3, 1, 2, 3];
+console.log(solution(5, a));
