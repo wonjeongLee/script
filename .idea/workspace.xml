@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day17(3).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day17(3).js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day18(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day18(1).js" afterDir="false" />
-    </list>
+    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,6 +131,7 @@
       <workItem from="1637240515995" duration="3255000" />
       <workItem from="1637413258409" duration="8274000" />
       <workItem from="1637987337986" duration="10930000" />
+      <workItem from="1638023445651" duration="312000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -220,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637938630391</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="script  문제풀이">
+      <created>1638023455000</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1638023455000</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
