@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="">
+    <list default="true" id="9e1d5cd9-46ae-4065-82ca-11da2125d95b" name="Changes" comment="script  문제풀이">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ScriptStudy/Day23(1).js" beforeDir="false" afterPath="$PROJECT_DIR$/ScriptStudy/Day23(1).js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <recent name="$PROJECT_DIR$/Script Study" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day23(1).js">
+  <component name="RunManager" selected="Node.js.Day24(1).js">
     <configuration name="debug" type="JavascriptDebugType" uri="http://localhost:3000">
       <method v="2" />
     </configuration>
@@ -72,27 +71,27 @@
     <configuration name="Day17(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day17(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day22(2).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day22(2).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+    <configuration name="Day23(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day23(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
-    <configuration name="Day23(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day23(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
+    <configuration name="Day24(1).js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/ScriptStudy/Day24(1).js" working-dir="$PROJECT_DIR$/ScriptStudy">
       <method v="2" />
     </configuration>
     <list>
       <item itemvalue="JavaScript Debug.debug" />
-      <item itemvalue="Node.js.Day22(2).js" />
       <item itemvalue="Node.js.Day16(3).js" />
       <item itemvalue="Node.js.Day17(1).js" />
       <item itemvalue="Node.js.Day17(2).js" />
       <item itemvalue="Node.js.Day23(1).js" />
+      <item itemvalue="Node.js.Day24(1).js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Day24(1).js" />
         <item itemvalue="Node.js.Day23(1).js" />
         <item itemvalue="Node.js.Day17(2).js" />
         <item itemvalue="Node.js.Day17(1).js" />
         <item itemvalue="Node.js.Day16(3).js" />
-        <item itemvalue="Node.js.Day22(2).js" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +135,7 @@
       <workItem from="1637676743389" duration="80000" />
       <workItem from="1637761995046" duration="1409000" />
       <workItem from="1637838164718" duration="10956000" />
-      <workItem from="1638281718278" duration="1977000" />
+      <workItem from="1638281718278" duration="2994000" />
     </task>
     <task id="LOCAL-00001" summary="script 파일 설정">
       <created>1635518785392</created>
@@ -250,7 +249,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638281843356</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="script  문제풀이">
+      <created>1638283744474</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1638283744474</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
