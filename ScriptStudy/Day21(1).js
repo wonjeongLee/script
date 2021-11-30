@@ -1,29 +1,18 @@
-function solution(board, moves){
-    let answer=0;
-    let stack=[];
-    moves.forEach(pos => {
-        for(let i=0; i<board.length; i++){
-            if(board[i][pos-1]!==0){
-                let tmp=board[i][pos-1];
-                board[i][pos-1]=0;
-                if(tmp===stack[stack.length-1]){
-                    stack.pop();
-                    answer+=2;
-                }
-                else stack.push(tmp);
-                break;
-            }
-        }
-    });
-
+//아나그램
+function solution(str1, str2){
+    let answer="YES";
+    let sH = new Map();
+    for(let x of str1){
+        if(sH.has(x)) sH.set(x, sH.get(x)+1);
+        else sH.set(x, 1);
+    }
+    for(let x of str2){
+        if(!sH.has(x) || sH.get(x)==0) return "NO";
+        sH.set(x, sH.get(x)-1);
+    }
     return answer;
 }
 
-let a=[[0,0,0,0,0],
-    [0,0,1,0,3],
-    [0,2,5,0,1],
-    [4,2,4,4,2],
-    [3,5,1,3,1]];
-
-let b=[1, 5, 3, 5, 1, 2, 1, 4];
+let a="AbaAeCe";
+let b="baeeACA";
 console.log(solution(a, b));
