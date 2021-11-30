@@ -1,14 +1,26 @@
-function solution(arr){
-    let answer=arr;
-    for(let i=0; i<arr.length; i++){
-        let idx=i;
-        for(let j=i+1; j<arr.length; j++){
-            if(arr[j]<arr[idx]) idx=j;
+//두 배열 합치기
+//LeetCode
+function solution(arr1 , arr2){
+    let answer=[];
+    let p1 = p2 = 0;
+    let a = arr1.length;
+
+    while(p1 < a && p2 < a ){
+        if(arr1[p1] < arr2[p2] ){
+            answer.push(arr1[p1++]);
+        }else{
+            answer.push(arr2[p2++]);
         }
-        [arr[i], arr[idx]] = [arr[idx], arr[i]];
     }
+
+    while(p1 < a )answer.push(arr1[p1++]);
+    while(p2 < a )answer.push(arr2[p2++]);
+
     return answer;
 }
 
-let arr=[13, 5, 11, 7, 23, 15];
-console.log(solution(arr));
+list1 = [1,2,4],
+list2 = [1,3,4]
+console.log(solution(list1, list2));
+
+//[1,1,2,3,4,4]
