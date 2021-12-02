@@ -14,6 +14,10 @@ function solution (arr , t){
             num += arr[p1++];
             answer.push(p1);
             num = 0;
+
+            if( n === t){
+                n -= arr[p1];
+            }
         }
     }
     return answer;
