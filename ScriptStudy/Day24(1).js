@@ -6,6 +6,9 @@ function solution (arr , t){
     let p1 = 0;
     let num = 0;
 
+    // 배열을 배열의 길이까지 돌면서
+    // 시작하는 수부터 끝나는 지점까지 더한다.
+    // target 값과 같아지면 처음 숫자를 뺀다.
     while(p1 < n){
         while(num == t){
             num += arr[p1++];
