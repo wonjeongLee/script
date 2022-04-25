@@ -1,2 +1,2 @@
 # script
-just pratice
+just practice
